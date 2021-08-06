@@ -12,7 +12,7 @@ Then the giant amount of code box click run
 Go back to your search browser and search for the image you want
 click images
 click on the image you want
-Tap your 'W' key to start
+Tap your 'M' key to start
 put cursor on top left of image then click your 'O' Key
 put cursor on bottom right of image then click your 'N' Key
 
@@ -20,7 +20,7 @@ go back to your gartic phone game when you have the drawing turn
 tap your 'K' key to start drawing (Try not to move your mouse around)
 
 for second drawings and on you repeat the same steps but you do not have to run the code again
-you will go to the image same as before but this time you will not have to tap 'W'
+you will go to the image same as before but this time you will not have to tap 'M'
 you will have to position cursor and tap 'O' and so on
 
 
